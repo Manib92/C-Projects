@@ -1,0 +1,10 @@
+C:\Users\Manib\Desktop\C# Projects\Sudoku\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+C:\Users\Manib\Desktop\C# Projects\Sudoku\Sudoku\obj\Debug\Sudoku.Sudoku.resources
+C:\Users\Manib\Desktop\C# Projects\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Manib\Desktop\C# Projects\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\Manib\Desktop\C# Projects\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Manib\Desktop\C# Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Manib\Desktop\C# Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Manib\Desktop\C# Projects\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Manib\Desktop\C# Projects\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Manib\Desktop\C# Projects\Sudoku\Sudoku\obj\Debug\Sudoku.pdb

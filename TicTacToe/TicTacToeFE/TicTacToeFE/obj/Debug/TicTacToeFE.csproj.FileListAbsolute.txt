@@ -1,0 +1,10 @@
+C:\Users\Manib\Desktop\C# Projects\TicTacToe\TicTacToeFE\TicTacToeFE\bin\Debug\TicTacToeFE.exe.config
+C:\Users\Manib\Desktop\C# Projects\TicTacToe\TicTacToeFE\TicTacToeFE\bin\Debug\TicTacToeFE.exe
+C:\Users\Manib\Desktop\C# Projects\TicTacToe\TicTacToeFE\TicTacToeFE\bin\Debug\TicTacToeFE.pdb
+C:\Users\Manib\Desktop\C# Projects\TicTacToe\TicTacToeFE\TicTacToeFE\obj\Debug\TicTacToeFE.csprojAssemblyReference.cache
+C:\Users\Manib\Desktop\C# Projects\TicTacToe\TicTacToeFE\TicTacToeFE\obj\Debug\TicTacToeFE.Properties.Resources.resources
+C:\Users\Manib\Desktop\C# Projects\TicTacToe\TicTacToeFE\TicTacToeFE\obj\Debug\TicTacToeFE.TicTacToe.resources
+C:\Users\Manib\Desktop\C# Projects\TicTacToe\TicTacToeFE\TicTacToeFE\obj\Debug\TicTacToeFE.csproj.GenerateResource.cache
+C:\Users\Manib\Desktop\C# Projects\TicTacToe\TicTacToeFE\TicTacToeFE\obj\Debug\TicTacToeFE.csproj.CoreCompileInputs.cache
+C:\Users\Manib\Desktop\C# Projects\TicTacToe\TicTacToeFE\TicTacToeFE\obj\Debug\TicTacToeFE.exe
+C:\Users\Manib\Desktop\C# Projects\TicTacToe\TicTacToeFE\TicTacToeFE\obj\Debug\TicTacToeFE.pdb
